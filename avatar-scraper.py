@@ -25,9 +25,6 @@ def dlfile(url, filename):
         i = Image.open(StringIO.StringIO(r.content))
         rgb_im = i.convert('RGB')
         rgb_im.save(filename)
-        # f = urlopen(url)
-        # with open(filename, "wb") as local_file:
-        #     local_file.write(f.read())
         print "Downloaded {0}...".format(url.encode('utf-8'))
     #handle errors
     except:
