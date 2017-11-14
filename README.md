@@ -1,7 +1,10 @@
 ## Dependencies
 It's expected your system already has Python and PIP installed, the following is a list of python module dependencies:
 
-``` pip install beautifulsoup4 ```
+```
+pip install beautifulsoup4
+pip install Pillow 
+```
 
 ## Borough Market Scraper
 
