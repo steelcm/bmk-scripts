@@ -1,5 +1,8 @@
 import json
 import re
+import requests
+import StringIO
+from PIL import Image
 from urllib2 import urlopen, URLError, HTTPError
 from bs4 import BeautifulSoup
 from pprint import pprint
@@ -18,9 +21,13 @@ def slugify(value):
 def dlfile(url, filename):
     # Open the url
     try:
-        f = urlopen(url)
-        with open(filename, "wb") as local_file:
-            local_file.write(f.read())
+        r = requests.get(url)
+        i = Image.open(StringIO.StringIO(r.content))
+        rgb_im = i.convert('RGB')
+        rgb_im.save(filename)
+        # f = urlopen(url)
+        # with open(filename, "wb") as local_file:
+        #     local_file.write(f.read())
         print "Downloaded {0}...".format(url.encode('utf-8'))
     #handle errors
     except:
@@ -64,10 +71,10 @@ for trader in data:
         avatarurl = ""
         if hasInstagram:
             avatarurl = instagramURL
+        elif hasTwitter:
+            avatarurl = twitterURL
         elif hasFacebook:
             avatarurl = facebookURL
-        elif hasTwitter:
-                avatarurl = twitterURL
 
         dlfile(avatarurl, "images/{0}.jpeg".format(trader["id"]))
         # print avatarurl.encode('utf-8')
