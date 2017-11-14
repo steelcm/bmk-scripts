@@ -1,6 +1,7 @@
 import re
 import json
 import urllib2
+import uuid
 from bs4 import BeautifulSoup
 
 def cleanstring(mystring):
@@ -24,7 +25,7 @@ for url in traderurls:
     page = urllib2.urlopen(url)
     soup = BeautifulSoup(page, "html.parser", from_encoding="utf-8")
     data = {}
-    # print url
+    data['id'] = str(uuid.uuid4())
     data['url'] = url
     data['name'] = cleanstring(soup.select("h1.article-header__heading")[0].text)
     data['summary'] = cleanstring(soup.select("p.article-header__profile")[0].text)
