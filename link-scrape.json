@@ -1,0 +1,3159 @@
+[
+    {
+        "description": "Graham Applebee and his team of fishmongers offer the catch of the day and prepare it to their customers’ requirements. Applebee’s Fish has everything on ice, from lobster and large Madagascan prawns to halibut, snapper, sea bass, salmon and crab. Produce is wild and line caught whenever possible. The cafe on Stoney Street serves fresh, seasonal dishes and has a daily-changing menu.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/applebee-s-fish", 
+        "summary": "Cafés, bars & restaurants, Fish & seafood", 
+        "social": [
+            {
+                "url": "http://twitter.com/APPLEBEESFISH", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "64aa62e3-4f51-4b2c-a517-de74d7991968", 
+        "name": "Applebee’s Fish"
+    }, 
+    {
+        "description": "Combining rustic alpine culture with Mediterranean sophistication, the products found at Thea Wunderer’s provide a snapshot of the cuisine of South Tyrol, an autonomous province of northern Italy. The charcuterie is made by a family that has been in the business for decades—if not longer—using a recipe handed down through generations. The region’s defining foodstuff is speck alto adige PGI. A ham of Protected Geographical Indication, it can only be made in South Tyrol and has a distinctive taste and texture. Other products include mountain salami, air-dried beef, smoked sausages and alpine biltong.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/alpine-deli", 
+        "summary": "Cured meats", 
+        "social": [
+            {
+                "url": "http://twitter.com/ExquisiteDeli", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Exquisite-Deli-263828778051/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "ce9b8926-8082-49ad-8997-1c66999c8fef", 
+        "name": "Alpine Deli"
+    }, 
+    {
+        "description": "Self-taught cheesemakers Arthur Alsop and Nicholas Walker have ploughed their own furrow, producing their own, unique style of wonderful cheese. Based in East Sussex, they use milk from a local farmer to make their cheeses—the most successful of which is the Lord London: a semi-soft, cow’s milk cheese invented in honour of the London 2012 Olympics, which received a silver medal at the World Cheese Awards and ended up on the breakfast table at a royal wedding.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/alsop-walker", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/Alsopandwalker", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/AlsopAndWalker?fref=nf", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "693b3589-35a6-4235-9028-020b391f36e6", 
+        "name": "Alsop & Walker"
+    }, 
+    {
+        "description": "Housed in a brick-lined railway arch, this open plan restaurant specialises in Levantine-inspired food: a dazzling array of vegetable mezze, fish and rare-breed meat grilled over charcoal, stone baked breads and pastries. Owner James Walters notched up more than 14 years’ experience importing and producing Middle Eastern specialities for his Borough Market stall before opening this convivial restaurant, designed to encourage the easy pleasures of shared food and conversation. A street cart continues to serve a range of mezze, pastries and ingredients outside on Market days, as well as the stall’s famous falafel and chicken shawarma wraps.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/arabica-bar-kitchen", 
+        "summary": "Cafés, bars & restaurants, Street food", 
+        "social": [], 
+        "id": "43d41864-fd31-4ae7-aba9-bfb8a284e185", 
+        "name": "Arabica Bar & Kitchen"
+    }, 
+    {
+        "description": "At Artisan du Chocolat, exquisite chocolates and hot chocolate are made with love and care by Irish-born master chocolatier Gerard Coleman, who cut his teeth in Belgium under the stewardship of renowned pastry chef and chocolatier Pierre Marcolini. His creations include liquid sea salt caramels, chocolate pearls, truffles and a wide range of chocolate bars. Artisan du Chocolat processes chocolate from ground beans, before conching and refining it in Ashford, Kent.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/artisan-du-chocolat", 
+        "summary": "Confectionery", 
+        "social": [
+            {
+                "url": "http://twitter.com/artisanchocolat", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/ArtisanduChocolat?fref=ts", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "904f8529-a41d-43fc-884e-81ab3caf4ee2", 
+        "name": "Artisan du Chocolat"
+    }, 
+    {
+        "description": "Before starting Artisan Foods, Klaus Kuhnke was a successful chef at his own restaurant, Scallywags, in Stoke Newington. Now Klaus has a bakery in Whitechapel, where Artisan Foods makes handmade sweet and savoury pastry products and cakes. His philosophy is to make everything from scratch, just like you’d make it at home. The stall is especially known for quiches, tartlets and rich chocolate brownies.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/artisan-foods", 
+        "summary": "Bakery", 
+        "social": [], 
+        "id": "e66f62c8-ed6a-4a27-a807-4cca3050e9f0", 
+        "name": "Artisan Foods"
+    }, 
+    {
+        "description": "Regional variations have led to a proliferation of recipes for these flaky filo delicacies, but call them what you like (borek, burek, bouréki or, as at Balkan Bites, boureka), as far as Ran Wilson is concerned, none could improve on his grandmother’s traditional Israeli recipe. When Ran wanted to share his passion for bourekas with his son, his determination to master the art resulted in Balkan Bites. These crispy parcels of spinach and feta, tomato and basil, potato and onion or three cheeses, served with a poached egg, green tahini or homemade humus, promise to be bitingly good.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/balkan-bites", 
+        "summary": "Bakery, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/BalkanBites", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Balkan-bites-456752757735433/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "b8b7cfcb-87e8-4c3a-b099-60b3b615de1d", 
+        "name": "Balkan Bites"
+    }, 
+    {
+        "description": "There is a reassuring sense of tradition behind the evocatively-named cheeses on offer at the Bath Soft Cheese Co. All the cheeses are organic and made at the third generation family-run Park Farm near Bath, using milk from its own herd of cows. The Bath Soft Cheese, from which the company takes its name, is a square, yielding ivory cheese with a white bloomy rind wrapped in parchment and stamped with a red wax seal. It has a pedigree stretching back to the 1790s, listing Admiral Lord Nelson among its many admirers.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/bath-soft-cheese-co", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/BathSoftCheese", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Bath-Soft-Cheese-158810606369/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "fd0c5deb-52f4-43a6-be24-1edab15a98d8", 
+        "name": "Bath Soft Cheese Co"
+    }, 
+    {
+        "description": "At Bedales wine bar and shop, wines from lesser known regions such as Lebanon sit next to the classic wines of France—quality rather than name recognition is the order of the day here. Explore the ever-changing wine menu and enjoy a glass alongside a daily-changing menu of small plates, with ingredients sourced from around Borough Market. Bedales also hosts regular tastings and workshop events.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/bedales", 
+        "summary": "Cafés, bars & restaurants, Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/BedalesWines", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/BedalesWines/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/bedaleswines/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "cd6c0413-784a-42db-9b96-abe38c618131", 
+        "name": "Bedales"
+    }, 
+    {
+        "description": "Bianca e Mora’s stall takes its name from two rare Italian breeds: the Bianca Modenese cow from Emilia Romagna and the free range Mora Romagnola pig. Specialising in charcuterie, parmigiano reggiano (parmesan) and pecorino cheese, Bianca e Mora sources its products from a collection of small farms in northern Italy. The star of the charcuterie is the hand-carved leg of the Mora Romagnola pig, which spends its life feeding on acorns and chestnuts, lending the meat a subtle but distinctive flavour. All the products on the stall are organic and several enjoy Italian DOP status, guaranteeing an authentic taste of northern Italy.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/bianca-e-mora", 
+        "summary": "Spices, preserves & condiments, Cured meats, Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/biancamorastall", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/p/BDGUaMFKrM6/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "700dc9dd-cd6f-4149-873c-68ea06e1b92b", 
+        "name": "Bianca e Mora"
+    }, 
+    {
+        "description": "Husband and wife Adam and Anna Robertson spent years searching for exciting vegetarian and vegan food with little success, so decided to start making it themselves. They avoid ‘fake meat’ products such as tofu or manufactured soya proteins and opt instead for organic, seasonal, local ingredients—vegetables, beans, pulses, legumes, herbs and spice—to hand-make their simple but intensely flavoursome veggie burgers, salads, sauces, dips, curries and soups.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/big-v-london", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/bigvlondon", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/bigvlondon/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/bigvlondon/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "a125b1d8-da75-479f-ae34-3483df4ef7f9", 
+        "name": "Big V London"
+    }, 
+    {
+        "description": "David Holton, Tim Jarvis and the team at Blackwood Cheese Company have been producing soft raw cow’s milk cheeses in their small dairy in Brockley, south-east London, since 2013. Their signature cheese is the Graceburn which comes steeped in a blend of extra virgin olive and rapeseed oils rather than brine, and is based on a Persian fetta recipe which David learnt in Australia. They also offer Edmund Tew, a brainy-looking, small lactic cow’s cheese, and William Heaps, a fresh lactic cheese.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/blackwoods-cheese-company", 
+        "summary": "Dairy & eggs", 
+        "social": [], 
+        "id": "c281cec2-fa8a-4a3b-a6b2-006a639ed41e", 
+        "name": "Blackwoods Cheese Company"
+    }, 
+    {
+        "description": "Borough Cheese Company specialises in spectacular wheels of comte cheese made in the Doubs and Jura areas of the Franche-Comte region of eastern France. The cheese is matured in the 19th century Fort Saint Antoine owned by Marcel Petite, one of the most respected affineurs of comte in France. Jason, who founded the company, and Dominic who runs the Borough Market stall visit the fort every six weeks to taste and select the finest comte, as well as a semi-soft, unpasteurised tome. From much closer to home, they also source the delicious Bermondsey red.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/borough-cheese-co", 
+        "summary": "Dairy & eggs", 
+        "social": [], 
+        "id": "111acfa5-91dc-4d0a-a0bd-035654b95acc", 
+        "name": "Borough Cheese Co"
+    }, 
+    {
+        "description": "Borough Kitchen sells a rigorously curated collection of kitchen tools and tableware—basically everything a home cook needs to prepare their Market ingredients—from an impressive shop space beside the Market Hall. Each piece of equipment has been selected based on functionality, performance and quality from a range of specialist European producers, artisans and global brands, so you’re sure to find the best tools for the job, whether you plan to open oysters, pin out pastry, temper chocolate or just slice a few onions.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/borough-kitchen", 
+        "summary": "Homewares & accessories", 
+        "social": [
+            {
+                "url": "http://twitter.com/boroughkitchen", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/BoroughKitchen/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/boroughkitchen/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "84e54bfa-0b2c-4149-bef1-f8db8ddc3543", 
+        "name": "Borough Kitchen"
+    }, 
+    {
+        "description": "Borough Olives sells a wide variety of fresh olives sourced from specialist producers in Greece, Spain and Morocco. The olives are then expertly marinated in the company’s Essex kitchens, using fresh herbs. The stall also sells a lovely range of green pesto, red pesto, tapenade, dolmades, feta cheese and sun dried tomatoes.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/borough-olives", 
+        "summary": "Spices, preserves & condiments, Olives & antipasti", 
+        "social": [
+            {
+                "url": "http://twitter.com/borougholives", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/borough.olives", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/borougholives/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "f97966d4-b63f-4054-b7b7-a7b12c9068d5", 
+        "name": "Borough Olives"
+    }, 
+    {
+        "description": "Borough Wines began as a small Borough Market stall in 2002, primarily as a platform to promote the wines of Chateau Ponchapt, a family-owned vineyard in Bergerac. Now there are shops London-wide. The wine is still mainly French, but the rest of the world is also represented, and there’s a selection of craft beers and carefully selected spirits alongside. Borough Wines operates a wallet-and-environment-friendly wine and beer refill system.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/borough-wines", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/@boroughwines", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/boroughwines", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/boroughwines/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "ba3b7575-3664-4c14-8126-5d46912501ec", 
+        "name": "Borough Wines"
+    }, 
+    {
+        "description": "Follow your nose and the aroma of freshly baked bread to the Bread Ahead Bakery on Cathedral Street. Here you can watch Matt Jones, Justin Gellatly and their team of expert bakers hard at work in the glass-fronted bakery that serves both the Bread Ahead stall in Three Crown Square and the bakery’s wholesale customers. The bakery is also home to the Bread Ahead Bakery School, which offers a range of baking and pastry skills courses for both amateurs and professionals.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/bread-ahead", 
+        "summary": "Confectionery, Bakery, Wholesale", 
+        "social": [
+            {
+                "url": "http://twitter.com/breadahead", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Bread-Ahead-Bakery-and-Bakery-School-292985050841802/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/breadaheadboroughmarket/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "af9afcb1-8c89-4654-b79d-ce036800d9c9", 
+        "name": "Bread Ahead"
+    }, 
+    {
+        "description": "Since Monika Linton first set out to introduce Spanish ingredients to the UK in 1988, Brindisa has grown into one of the country’s best-known importers of high quality, carefully sourced Spanish food. Its products range from the world-famous ibérico bellota ham and manchego cheese, to lesser-known delicacies such as morcilla and mojama. Brindisa has become a destination for lovers of all things Iberian. At lunch time, the hot chorizo and rocket roll, served outside the shop, is a treat not to be missed.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/brindisa", 
+        "summary": "Cured meats, Dairy & eggs, Street food, Oils & vinegars, Dry goods", 
+        "social": [
+            {
+                "url": "http://twitter.com/Brindisa", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Brindisa", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/brindisaspanishfoods/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "45c04272-f03a-4f26-aef5-3f785ef01fc0", 
+        "name": "Brindisa"
+    }, 
+    {
+        "description": "Zoe Roberts began her business at home in Tooting, having spotted a gap in the market for unprocessed nut butters. She now offers a range of handmade products including cashew, maple and turmeric butter; ‘ABC’ butter containing almonds, brazil and cashew nuts; hazelnut and cacoa butter; and almond and coconut butter—all of which are free from palm oil, refined sugar, gluten, additives and preservatives.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/butter-nut", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/@ButterNutOfLDN ", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/ButterNutOfLondon", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/ButterNutOfLondon", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "715dc0fb-04d0-43e4-9273-a46b81925042", 
+        "name": "Butter Nut"
+    }, 
+    {
+        "description": "Since opening in 2010, Cannon and Cannon has been at the forefront of the British charcuterie revolution. All of Cannon and Cannon’s products are carefully selected, taking into account animal welfare, food miles, provenance and, of course, taste. They also host events, tastings and workshops at their Meat School in Jubilee Place. Learn how to turn a pig’s head into brawn, make your own rillettes or discover the secret to perfect bacon.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/cannon-cannon", 
+        "summary": "Cured meats, Wholesale", 
+        "social": [
+            {
+                "url": "http://twitter.com/cannonandcannon", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/cannonandcannon/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/cannonandcannon/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "731db808-778c-48bd-afb7-cac379e2726d", 
+        "name": "Cannon & Cannon"
+    }, 
+    {
+        "description": "Founded by brothers Martin and David Cartwright, Cartwright Bros is now run by Martin’s son Richard, who sources a wide range of wines from around the world, mostly from independent estates. Cartwright Bros also has a growing range of English wines, spirits, mead and fruit wines.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/cartwright-brothers", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/@Cartwrightwines ", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "395c38f3-61b6-48d1-9f9c-1b7e3091b82b", 
+        "name": "Cartwright Brothers"
+    }, 
+    {
+        "description": "Backed by The Big Issue, Change Please is a social enterprise that provides homeless people with the skills, equipment and support required to become fully fledged baristas, selling high quality coffee from distinctive mobile carts. After some intensive professional training, the stall’s vendors are paid the London living wage and offered six months of potentially life-changing experience. The coffees, which rotate depending on the season, are all carefully sourced—regular suppliers include Itende JKT in Tanzania, which helps at-risk young people gain employment. The roasting takes place at the Old Spike Roastery in Peckham.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/change-please-coffee", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/ChangePlease", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/changeplease15/?fref=ts", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/changeplease/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "4a28fa9c-8f4a-4aa0-9186-66276826f437", 
+        "name": "Change Please Coffee"
+    }, 
+    {
+        "description": "Winners of the best food producer award at the BBC Food & Farming Awards 2016, Illtud Llyr Dunsford and Liesel Taylor produce cured, cooked, smoked and air dried charcuterie on their small farm in Carmarthenshire, south Wales. At the start of 2015, they converted the farm’s former milking parlour into a state-of-the-art facility, complete with a recipe development space, a well-equipped butchery, Italian drying rooms and a German smokehouse. Here, they use meat from their own herd of pedigree welsh and mangalitsa pigs, as well as high quality pork, beef and rose veal sourced from other Welsh farms, to produce a wide range of sausages, continental classics such as andouille, chorizo and saucisson sec, and British favourites including faggots, haslet and farmhouse ham.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/charcutier-ltd", 
+        "summary": "Cured meats, Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/charcutierltd", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/CharcutierLtd", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/charcutierltd/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "8b300681-9742-4a9a-8626-cc389492f906", 
+        "name": "Charcutier Ltd"
+    }, 
+    {
+        "description": "Chegworth Valley is a family-run farm, established in the beautiful Kent countryside in 1983. The Borough Market stall sells a wide range of fruit, vegetables and salads, much of which come directly from the farm where they are grown naturally without the use of chemical sprays and pesticides. The farm is widely known for its juices, made from surplus fruit that is pressed in small batches, often within hours of picking. The juices are then gently pasteurised to retain the nutritional properties and flavour of the fruit.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/chegworth-valley", 
+        "summary": "Fruit & veg, Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/chegworthvalley", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/chegworthvalley", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/chegworthvalley/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "37ec387b-d864-43fe-a091-9aeb38f83c69", 
+        "name": "Chegworth Valley"
+    }, 
+    {
+        "description": "Chez Michele’s talented florist, Michèle, brings an abundance of colour and fragrance to Borough Market. A selection of Michèle’s artwork and furniture is also available in the shop, forming a distinctive backdrop to the array of seasonal flowers, plants and highly creative bouquets.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/chez-michele", 
+        "summary": "Plants & flowers", 
+        "social": [
+            {
+                "url": "http://twitter.com/chezmichelebm", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/chezmicheleflowershop/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "7739101d-3eba-44b1-b791-40d361fca879", 
+        "name": "Chez Michele"
+    }, 
+    {
+        "description": "Young chocolatier Hayleigh Bazelya trained among the top professionals in her field and has gone on to develop her own style of truffles, chocolate sculptures and beautifully crafted chocolate boxes. Working on a small scale, Hayleigh sources her chocolate from Ghana and finds inspiration and ingredients for her exotic truffle fillings among the traders at Borough Market.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/chocolicious", 
+        "summary": "Confectionery", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/SoChocolicious/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "1e214c67-e8bf-41d1-bd5c-001c7d32adee", 
+        "name": "Chocolicious"
+    }, 
+    {
+        "description": "Cinnamon Three Bakery specialises in beautifully decorated, handmade biscuits baked in Camberwell. Partners in both life and business, Andy Geddes and Anita Khawaja use only the finest ingredients, including organic flour, unsalted butter, soft brown sugar and free range eggs. Specialities include shortbread owls, gingerbread men and the stall’s famous cinnamon biscuits, which come embossed with an elephant print from an Indian woodblock.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/cinnamon-tree-bakery", 
+        "summary": "Confectionery, Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/CinnTreeBakery", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The-Cinnamon-Tree-Bakery-Ltd-320010304707306/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "dcd610bf-74c2-4dde-82cf-b1153e2e65b8", 
+        "name": "Cinnamon Tree Bakery"
+    }, 
+    {
+        "description": "Owned by talented chef-patissier Sebastien Wind, Comptoir Gourmand sells cakes and pastries with an emphasis on traditional French techniques and fresh, quality products. Specialities include fruit tartes; huge, colourful meringues in a variety of flavours; French, chocolate-filled éclairs; almond, pecan and raisin shortbreads; and rich, custardy canelé de Bordeaux.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/comptoir-gourmand", 
+        "summary": "Confectionery, Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/ComptoirG", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/ComptoirG/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "02fd8381-2ad4-4219-8d0c-380982aad726", 
+        "name": "Comptoir Gourmand"
+    }, 
+    {
+        "description": "Cool Chile Co sources everything you could possibly need to make authentic Mexican cuisine at home: herbs, spices, corn and dried chillies are imported directly from Mexico. These include sweet and fruity ancho chillies with dark, wrinkly skin; guajillo, meaning ‘little gourd’—tangy and brick red, with a smooth pod shape; chipotle, a smoked, spicy jalapeño; and habanero, which is deliciously fruity and viciously hot. The company also sells preservative and gluten-free corn tortillas and a range of Mexican sauces such as mole and chipotle salsa, all freshly made in north London.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/cool-chile-co", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/coolchileco", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/coolchileco/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "6f36a104-fc81-40b2-9705-2fd62aa454c2", 
+        "name": "Cool Chile Co"
+    }, 
+    {
+        "description": "The English sweetcorn season has arrived and with it Crouch Cobs trading from the Floral Hall, making the most of the short but very sweet season of English corn on the cob.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/crouch-cobs", 
+        "summary": "Fruit & veg, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/CrouchCobs", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "287a8343-8222-4f53-be7a-4e35476faf16", 
+        "name": "Crouch Cobs"
+    }, 
+    {
+        "description": "Steven and Joanna Airey offer their customers traditional and rare breed meat from their farm in Cumbria, specialising in Lakeland Herdwick lamb and Galloway beef. Herdwick lamb has long been favoured for its sweet flavour, attributed to the slow-growing nature of the sheep. Galloway beef, one of the oldest native UK breeds, is also renowned for its succulence and tenderness. At the lunchtime market, Steven and Joanna serve up their delicious Herdwick lamb in a wrap with spiced rice, Galloway beef stew with dumplings, and traditional cottage pie.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/cumbrian-speciality-meats", 
+        "summary": "Meat, poultry & game, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/cumbrianmeats", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/CumbrianSpecialityMeats/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "c8aaabb2-3594-4a83-ae80-1aa66b0de0f2", 
+        "name": "Cumbrian Speciality Meats"
+    }, 
+    {
+        "description": "Giuseppe Mele offers a wonderful selection of food sourced direct from Calabria—the region of southern Italy from whence he came. Cured meats include soppressata, the region’s most popular salami, and nduja, a spreadable salami made using pig’s cheeks, lard, belly and some lively spicing. De Calabria also stocks cheese, pure unfiltered olive oil, sundried tomatoes, honey and plenty more besides.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/de-calabria", 
+        "summary": "Spices, preserves & condiments, Cured meats, Dairy & eggs", 
+        "social": [], 
+        "id": "12c6fb63-27ee-446f-838f-7f5008969b19", 
+        "name": "De Calabria"
+    }, 
+    {
+        "description": "Sybil La Grenade began making traditional Grenadian products in her basement while working as a home economics teacher in the 1960s. De La Grenade is now run by her daughter Cecile, who supplies Borough Market stallholder Doreen Gittens with a taste of the Caribbean via jams and jellies made from nutmeg, guava and grapefruit, as well as pepper sauces and other tropical products, imported direct from the family estate on the island of Grenada.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/de-la-grenade", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/De-La-Grenade-Industries-Ltd-121328794602388/?ref=ts", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "e63455ce-f674-413a-8caa-7ba50eb7c816", 
+        "name": "De la Grenade"
+    }, 
+    {
+        "description": "Spearheading the boom in handcrafted spirits from the heart of the capital’s old distilling quarter, the East London Liquor Company produces distinctly-flavoured, own-brand gins, distilled in beautiful copper stills in a converted glue factory in Bow Wharf. Led by founder Alex Wolpert, the focus is on traditional British recipes with quintessential English flavours, using 100 per cent British wheat for the production of small batch gin and vodka.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/east-london-liquor-company", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/DistillinginE3", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/East-London-Liquor-Company-249270738571280/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/eastlondonliquorcompany/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "8f430b0d-4f1a-4b64-b1cf-c84050351b08", 
+        "name": "East London Liquor Company"
+    }, 
+    {
+        "description": "Premium raw goat’s milk and pasteurised and unpasteurised cheeses produced by Debbie Vernon and partner David from their own herd in Kent. The business started in 2004 with three goats and is now the largest producer of bottled raw goat’s milk in the UK with 300 pedigree goats, all known and loved as individuals. The animals are raised ethically, male and female alike, and given free range access to graze on the ancient meadows of Kent’s North Downs year-round, supplemented by GM and additive free hay and feed, which is produced locally. They also sell raw goat meat, perfect for you to try cooking at home.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/ellie-s-dairy", 
+        "summary": "Dairy & eggs", 
+        "social": [], 
+        "id": "618c5fc1-571e-4ebc-bce7-73f22ad8d7d6", 
+        "name": "Ellie’s Dairy"
+    }, 
+    {
+        "description": "Elliot’s sources many of its ingredients directly from the Market, offering a menu that reflects the range of seasonal produce available. Cooked over a wood-fired grill, dishes are simple yet flavoursome, making the most of the Market’s meat and a wide variety of fish.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/elliot-s-cafe", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/elliotscafe", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/elliotscafe", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "cf82765d-ffd0-49a7-9edc-8d831537c99e", 
+        "name": "Elliot’s Cafe"
+    }, 
+    {
+        "description": "Gary Voight, the man behind Elsey and Bent, started work at the Market more than 35 years ago on his father’s fruit and veg stall, and he has been trading here ever since. Years of experience in sourcing, combined with a traditional sense of quality and value, mean customers are sure to find an excellent selection of seasonal produce at this stall. The team know their onions, both literally and figuratively, and are keen to share their knowledge and offer advice. Beautiful displays of produce add colour to the corner of Three Crown Square, making it a pleasure to shop for your five a day.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/elsey-bent", 
+        "summary": "Fruit & veg", 
+        "social": [
+            {
+                "url": "http://twitter.com/elseybent", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "d46de178-c5c3-451e-9d24-324d650558e0", 
+        "name": "Elsey & Bent"
+    }, 
+    {
+        "description": "Warm, heady berbere spice and the aromatic butter nit’ir kibe put the flavours of Ethiopia into the aptly named Ethiopian Flavours. The country has a rich tradition of vegetarian food, so side dishes of lightly spiced pulses and aromatic vegetables such as missir, ye kik alich’a, gomen, fasolia and dubba are commonplace. Have some as part of a vegetarian feast, or combine with the popular beef and chicken stir fried stews, tibs and doro tibs. For an authentic Ethiopian lunch, eat them with ingera, the spongy, sour, crepe-like bread that acts as both a platter and a wrap.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/ethiopian-flavours", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/ethioflavours", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/ethiopianflavours/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "b18e8b90-4409-425e-919f-5a48acfbd12a", 
+        "name": "Ethiopian Flavours"
+    }, 
+    {
+        "description": "Traditional techniques are combined with seasonal, sustainably-sourced produce to create a classic Japanese menu—sushi, sashimi, noodles and salads—customised to reflect British tastes. Enjoy in the stylishly minimalist surroundings of the restaurant or else take away.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/feng-sushi", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/fengsushiuk", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/FENGSUSHIUK ", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/fengsushi/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "26b73d1b-e1a9-4d4b-8310-8d6e6dbe038b", 
+        "name": "Feng Sushi"
+    }, 
+    {
+        "description": "Restaurateur Tony Allan’s ever-popular restaurant serves simple seafood dishes. The fish and shellfish are delivered fresh each morning by Fish!’s long-established fishmonger, Jarvis of Kingston. The restaurant is open for breakfast, lunch and dinner, and offers a wide range of grilled or pan-fried fish served with a sauce of your choice. Also available are favourites such as fish pie, fish cakes and battered fish and chips to be enjoyed inside, or on the 70-seat terrace overlooking Southwark Cathedral.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/fish-restaurant", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/fishborough", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/fishboroughmarket", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "e540467e-e009-4a64-b67a-2fe011ff7e05", 
+        "name": "Fish! Restaurant"
+    }, 
+    {
+        "description": "What Noel Fitzjohn doesn’t know about the wild fruit, vegetables and fungi of southeastern England probably isn’t worth knowing. This enthusiastic and highly knowledgeable forager brings his seasonal haul to sell at Borough Market, together with a range of pates, terrines, confits and condiments, all handmade on his estates in France and England. French favourites such as pâté de fois gras, wild boar terrine and confit de canard share table space with some of Noel’s more off-beat flavoured mustards and vinegars.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/fitz-fine-foods", 
+        "summary": "Spices, preserves & condiments, Oils & vinegars", 
+        "social": [
+            {
+                "url": "http://twitter.com/fitzfinefoods", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "a7dc1e82-b8a9-4193-a32f-bd53bd9ec08e", 
+        "name": "Fitz Fine Foods"
+    }, 
+    {
+        "description": "Flat Cap Coffee’s aim is simple: to serve some of the very best speciality coffee in London. Brazilian barista champion Fabio Ferreira and his business partner of three years, Robert Robinson, joined forces in 2008. Flat Cap Coffee was born soon after. Beans are sourced from around the world and roasted in Flat Cap’s own roasting facility near Caledonian Road, ensuring the freshest possible brew. As well as espresso-based coffee, the stall offers a rotating menu of filter coffee.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/flat-cap-coffee", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/flatcapvictoria", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "a8d49b2d-71d5-47d8-8443-26525ba6bd91", 
+        "name": "Flat Cap Coffee"
+    }, 
+    {
+        "description": "Flax Farm uses linseed from its Sedgwick-based farm in West Sussex to make a huge range of handmade products, including cold-pressed linseed oil, fresh ground linseed, linseed breakfast cereals, linseed bars and Flaxjacks—the company’s trademark flapjack-type cakes.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/flax-farm", 
+        "summary": "Bakery, Dry goods", 
+        "social": [], 
+        "id": "b6dfc372-ce2e-46ca-ad77-a067aa1da277", 
+        "name": "Flax Farm"
+    }, 
+    {
+        "description": "Sustainably produced by beekeepers who know and love their bees, the raw English and Italian honeys found at From Field and Flower are a world away from their bland commercial counterparts. The honey is filtered slowly rather than heat-treated, meaning the naturally-occurring bacteria—and flavours—are kept alive.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/from-field-and-flower", 
+        "summary": "Spices, preserves & condiments, Dry goods", 
+        "social": [
+            {
+                "url": "http://twitter.com/fromfieldflower", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/fromfieldflower", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "bccf76c8-a6f7-4ba0-9108-4101190bdc31", 
+        "name": "From Field and Flower"
+    }, 
+    {
+        "description": "Furness Fish & Game, based in Flookburgh, Cumbria, sells seasonal fish, game and stuffed poultry. The fish arrives at Borough every morning, ensuring it’s always beautifully fresh. The game, including pheasant, partridge, rabbit, hare and venison, is sourced mainly from Cumbrian estates Graythwaite Hall and Levens Hall. Other specialities include potted shrimps which are locally caught in Morcambe Bay before being boiled with a combination of spices, sealed with butter and packed into pots.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/furness-fish-game", 
+        "summary": "Fish & seafood, Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/furnessfish", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "c436ad62-4016-4f47-8d87-97baaf6e6239", 
+        "name": "Furness Fish & Game"
+    }, 
+    {
+        "description": "Marco Vineis established Gastronomica at Borough Market in February 2000. In a bid to import only the finest quality produce from Italy, Marco has forged strong relations with a host of small artisan producers. Gastronomica stocks pulses, sauces, jam, mustard, balsamic vinegar, seriously good charcuterie, and cheeses from all over Italy: from the northern region of Piedmont, all the way down to Sicily and many places in between.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/gastronomica", 
+        "summary": "Cured meats, Dairy & eggs, Dry goods", 
+        "social": [], 
+        "id": "68b796a3-fb3c-499e-9552-8df7e477da20", 
+        "name": "Gastronomica"
+    }, 
+    {
+        "description": "3Bis bring high quality gelato to Borough Market. The texture of gelato is hugely important to its success, so the team searched long and hard for the perfect British cows’ milk, with just the right fat content, to create classic Italian-style ice cream. Other ingredients are equally carefully sourced, with an emphasis on the wealth of flavours available within the Market. Fresh batches of gelato are made daily in full public view, using traditional equipment including an authentic machine from the 1950s.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/gelateria-3bis", 
+        "summary": "Confectionery", 
+        "social": [
+            {
+                "url": "http://twitter.com/gelateria3bis", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Gelateria3BISUk", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "4641b0e1-05a9-40d2-ab0a-6929b711573e", 
+        "name": "Gelateria 3Bis"
+    }, 
+    {
+        "description": "Gorwydd Caerphilly boasts traditional Caerphilly cheese produced by the Trethowan family at Gorwydd Farm, just outside the village of Llanddewi Brefi in Ceredigion, west Wales. The cheese is made with unpasteurised cow’s milk and animal rennet, using original hand-turned presses and mould. It is matured for two months at closely monitored temperature and humidity levels; during this process, each cheese is carefully turned every day. The result is a subtle, well-rounded Caerphilly with a fresh, lemony flavour.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/gorwydd-caerphilly", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/trethowansdairy ", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/trethowansdairy/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "b49e21cc-14d2-40f0-bc04-a4b66ab0ba7a", 
+        "name": "Gorwydd Caerphilly"
+    }, 
+    {
+        "description": "As demand for goat’s milk and cheese has increased in the UK, farmers have expanded their milking herds and are consequently left with greater numbers of young males, known as billies—for which, until recently, there was little market.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/gourmet-goat", 
+        "summary": "Meat, poultry & game, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/gourmet_goat", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/gourmetgoat", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "d3e7526a-e209-421c-9111-309f5b2e4746", 
+        "name": "Gourmet Goat"
+    }, 
+    {
+        "description": "Greedy Goat’s ice cream, created from the milk of these famously grumpy, horned ungulates, is naturally suitable for those with a lactose intolerance and is also lower in fat and calories than traditional cow’s milk ice cream; the range is a delight for anyone wishing to enjoy a healthy treat, without sacrificing flavour.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/greedy-goat", 
+        "summary": "Confectionery", 
+        "social": [
+            {
+                "url": "http://twitter.com/thegreedygoat", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/greedygoaticecream/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/greedygoaticecream/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "106875e7-68f4-4162-bfa7-1750a2a8984a", 
+        "name": "Greedy Goat"
+    }, 
+    {
+        "description": "Greenfield Farm Organic Life brings specialist teas and ready-to-drink iced tea to Borough Market. The teas all come from a single estate in the Uva district of Sri Lanka, set more than 5,000 feet above sea level. The region produces some of the island’s finest teas, such as pure ceylon, earl grey and orange pekoe. Improving the wellbeing of local communities lies at the heart of the estate’s mission, and the benefits of the profits are widely felt in the surrounding area.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/greenfield-farm-organic-life", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/organiclifesl", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/organiclifeteas/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/organiclifeteas/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "f942df5d-52fe-4291-a85f-b448db8b53f1", 
+        "name": "Greenfield Farm Organic Life"
+    }, 
+    {
+        "description": "Urvesh Parvais and his mother Lalita work to recipes that have been passed down over many generations in Gujarat, India. They use only fresh ingredients and whole spices to create superior quality cooking sauces, chutneys and chai spices, imbued with the genuine taste of traditional home cooking.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/gujarati-rasoi", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/gujaratirasoi", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Gujarati-Rasoi-59347174961/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/gujaratirasoi/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "c8e15bf9-4bda-4935-a352-8fd857517733", 
+        "name": "Gujarati Rasoi"
+    }, 
+    {
+        "description": "A small yet vibrant barbershop run by friendly barbers Ian and Wayne, offering both traditional and fashion cuts, as well as beard trims. No appointment necessary: simply stroll in, sit in the traditional train station-style waiting room and watch passersby in the heart of the Market.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/hobbs-barbers", 
+        "summary": "Hair and beauty", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/pages/Hobbs-Barber-Shop-Borough-Market/406090439434853", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "cb811436-0a7b-4763-9951-e68a0452e0f5", 
+        "name": "Hobbs Barbers"
+    }, 
+    {
+        "description": "Michael Hobbs started working at Borough 25 years ago, first as a market porter and then as a bookkeeper for Elsey & Bent. Together with his wife Julie, he opened Hobbs Meat Roast which soon became a favourite among Market regulars. The pair certainly know how to get a queue started: their hot meat baguettes include roast loin of pork with stuffing and apple sauce, turkey breast with stuffing and cranberry sauce, and salt beef with dill pickle and mustard.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/hobbs-meat-roast", 
+        "summary": "Street food", 
+        "social": [], 
+        "id": "f44d29f5-b12a-4346-9ead-a571191d489d", 
+        "name": "Hobbs Meat Roast"
+    }, 
+    {
+        "description": "Phil and Steve Hook produce organic, unpasteurised milk—also known as raw milk—from their small dairy farm on the edge of the Pevensey Levels in Sussex. Use of sustainable farming methods and grass fed Friesian Holstein cows means that only the highest quality milk is produced by the Hook family, who have a history of more than 250 years of farming. Their other products include raw cream, raw butter and ghee.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/hook-and-son", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/hookandson", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Hook-Son-Raw-Organic-Milk-181860091856086/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "528395de-d0cc-40aa-a89f-9aacc246c836", 
+        "name": "Hook and Son"
+    }, 
+    {
+        "description": "Even the name is evocative: Horn OK Please is a slogan commonly found emblazoned across the back end of vehicles in India. It was with the vibrant images, sounds and smells of that nation’s city streets that the concept for Gaurav and Sandhya’s stall was born.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/horn-ok-please", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/Horn_Please", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Hornplease/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "a20642cc-c22e-4b9f-8698-bb0a4d48e6aa", 
+        "name": "Horn OK Please"
+    }, 
+    {
+        "description": "Georgeta Decuseara bakes all of Ion Patisserie’s impossible-to-resist range of sweet treats. Though particularly famed for its mouth-watering array of cheesecakes—lemon, toffee and pecan, raspberry and white chocolate, caramelised apple, to name but some—at Ion Patisserie you’ll also find plenty of other cakes and tarts to whet your appetite.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/ion-patisserie", 
+        "summary": "Confectionery, Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/ionpatisserie", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/ionpatisserie/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "78c1a0dc-26cb-4c02-9508-658324ad552e", 
+        "name": "Ion Patisserie"
+    }, 
+    {
+        "description": "John Stark (better known as Jock) has been handling fresh fruit and veg for more years than he’d care to remember. The amiable Scot has been connected to Borough Market for more than 40 years, once as a customer sourcing produce for his greengrocers in South Nunhead. Jock’s stall boasts a careful selection of the season’s best fruit and veg from home and abroad—from locally grown strawberries, raspberries and blueberries, to dates, mangos and apricots.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/jock-stark", 
+        "summary": "Fruit & veg", 
+        "social": [], 
+        "id": "1c57b722-0808-4b1e-a67e-ab483df546c0", 
+        "name": "Jock Stark"
+    }, 
+    {
+        "description": "All of the unique products at Jumi Cheese are produced by four family-run dairies in the Emmental region of Switzerland. The cows whose milk supplies Jumi’s dairies all feed on fresh grass and hay, and the farmers start and end the process by hand. Specialities include belper knolle, a raw cow’s milk cheese made from the milk of the simmental cow, and spahn, a hard cheese made with a ricotta rather than milk base.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/jumi-cheese", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/jumicheese", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "00bdadbe-c566-481f-859d-cf11fde067c0", 
+        "name": "Jumi Cheese"
+    }, 
+    {
+        "description": "Kappacasein’s owner Bill Oglethorpe makes his Ogleshield cheese in Bermondsey, using a rich, unpasteurised, full-fat milk that gives the mature cheese its distinctive flavour. The result is one of the finest aromas your nostrils could ever hope to savour, emanating from Kappacasein’s Swiss raclette—a generous helping of melted Ogleshield on a pile of new potatoes, baby gherkins and pickled onions—and toasted cheese sandwiches, made with Montgomery cheddar, onions, leeks and garlic on Poilâne sourdough.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/kappacasein", 
+        "summary": "Dairy & eggs, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/kappacasein", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/kappacasein/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/kappacasein/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "040e6693-0bce-4882-a318-691cb5ac5c06", 
+        "name": "Kappacasein"
+    }, 
+    {
+        "description": "You can almost taste the heritage and tradition enveloping the range of breads and pastries created by this family-run London bakery. Specialists in rye bread, the bakers use long fermentation processes and natural ingredients like seeds, grains, nuts and fruit to create wholesome loaves that are full of flavour. From authentic Lithuanian scalded rye and Russian borodinsky to newly developed artisan breads and sweet treats, Karaway harmoniously fuses time-honoured techniques and recipes with 21st century tastes.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/karaway-bakery", 
+        "summary": "Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/karawaybakery", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/karawaybakerylondon/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "0b15214f-9e94-48f6-b411-0352484dbafa", 
+        "name": "Karaway Bakery"
+    }, 
+    {
+        "description": "Khanom Krok sells authentic Thai street food, courtesy of husband and wife team Worawan and Michael. Worawan’s family have been making the eponymous street snack khanom krok, cooked in distinctive dimpled pans, for years. Watching the skill involved in creating these moreish little coconut puddings is almost as much fun as eating them. Add Khanom Krok’s quail egg in a hole and mango and coconut sticky rice and you have a snapshot of traditional Bangkok street food.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/khanom-krok", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/khanomkrokuk", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/khanomuk/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "14a9eaff-f26d-4518-903e-d47c1d91a990", 
+        "name": "Khanom Krok"
+    }, 
+    {
+        "description": "German-born founder Gerhard Jenne originally trained in Munich as a pastry chef (or ‘konditor’) and then in London as a cook: his company’s name reflects his equal talent for both. Handmade bread, cakes, pies and pastries are all baked on premises using organic eggs, natural butter and no little skill.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/konditor-cook", 
+        "summary": "Confectionery, Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/konditorandcook", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/konditorandcook/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "c38c36ae-4fe1-45d5-84ae-a046f32d466e", 
+        "name": "Konditor & Cook"
+    }, 
+    {
+        "description": "Koshari is a humble yet satisfying vegetarian street dish from Egypt; a healthy mix of rice, lentils and vermicelli pasta, enlivened with spicy tomato sauce and finished with caramelised onions, chickpeas and chilli oil. Anissa Helou, the founder and creative force behind Koshari Street, has taken the traditional dish and adapted it for the 21st century by using meticulously sourced ingredients, including rice and pulses from Brindisa, and her own doqqa sprinkle of crushed nuts and spices.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/koshari-street", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/KoshariStreet", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/KoshariStreetLondon", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/kosharistreet/?ref=badge", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "e1dd558c-f49c-460b-9ccb-2090fbaffd08", 
+        "name": "Koshari Street"
+    }, 
+    {
+        "description": "Francesco Boggian works tirelessly to make pasta that’s every bit as good as his grandmother’s—and for an Italian, that’s really saying something. Francesco is the founder of La Tua Pasta, the family-run producer of authentic fresh pasta, made using the best Italian ingredients. Pasta comes in all shapes, sizes and textures, plain, coloured or filled—from tortellini filled with Italian sausage and porcini mushrooms, to countless varieties of ravioli, gnocchi and pappardelle.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/la-tua-pasta", 
+        "summary": "Street food, Dry goods", 
+        "social": [
+            {
+                "url": "http://twitter.com/LaTuaPasta", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/LaTuaPasta/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "640d1774-125f-4ea4-9167-371d61950825", 
+        "name": "La Tua Pasta"
+    }, 
+    {
+        "description": "L’ailOlive brings a taste of the Orient straight to Borough Market. With free-range chicken from Grove Farm, vegetables from Ted’s Veg, and homemade egg noodles, the stall’s famous chicken stir-fry is just one of several dishes on offer. Others favourites include freshly made gyoza dumplings.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/l-ailolive", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/lailolive", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Lailolive", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "79a19eda-397e-43fe-894b-9af3da570fbe", 
+        "name": "L’ailOlive"
+    }, 
+    {
+        "description": "Ubriaco cheese—which translates as ‘drunken’ cheese—originates from Treviso in Veneto, Italy. It is a pasteurised, cow’s milk cheese aged for around 18 months, the last six months of which involve being soaked in local wine, a process known as ‘ubriacatura’. The wines used are merlot, cabernet and raboso, each of which lends a slightly different finish. The wine speeds up the aging process, giving the cheese a spicy, fruity afterbite.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/l-ubriaco-drunk-cheese", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "https://facebook.com/drunkcheese/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "aa352dbf-8adb-4d06-aa85-97da2ab82a4d", 
+        "name": "L’Ubriaco Drunk Cheese"
+    }, 
+    {
+        "description": "A family business rooted in the south west of France, Le Marché du Quartier sources fine French food and wine from small-scale French suppliers. Specialities include goose fat and garlic, confit and cassoulet (available to eat hot at the Market or to take away in tins), poulet de bresse chickens and a wide variety of French cheese. During the truffle season, the stall stocks fresh truffles sniffed out by pigs in Perigord.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/le-marche-du-quartier", 
+        "summary": "Spices, preserves & condiments, Dairy & eggs, Drinks, Meat, poultry & game, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/duckconfituk", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/duckconfitsandwich/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "223b53bf-153a-47d0-9f21-8470dfb6b910", 
+        "name": "Le Marché du Quartier"
+    }, 
+    {
+        "description": "Pure, raw and local London and British honey and fresh pollen granules are available from the ethical beekeepers at Local Honey Man, who raise their own honeybees in over 250 hives in east London and Yorkshire. The business has a strong belief that everyone can play a part in saving the honey bee and to this end is trying to educate people about the importance these creatures play in our ecosystem.", 
+        "openingtimes": [
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/local-honey-man", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/@LocalHoneyManUK ", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/localhoneymanuk/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/localhoneymanuk/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "304e85e8-6cd4-47e7-b3d1-797d96a570c3", 
+        "name": "Local Honey Man"
+    }, 
+    {
+        "description": "Founded in 2013, Luminary Bakery began in a small shared kitchen and has since taken on a stream of apprentices and trainees, providing women from disadvantaged backgrounds the opportunity to gain employable skills and build a network of support. Ingredients are high quality, ethically sourced, and transformed into the likes of coffee and cardamom sponge, gluten free salted caramel brownies, and sticky toffee and date layer cake.", 
+        "openingtimes": [
+            "Wednesday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/luminary-bakery", 
+        "summary": "Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/@LuminaryBakery ", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "34ed31eb-b43c-4f84-9dfc-d5cebde13eb5", 
+        "name": "Luminary bakery"
+    }, 
+    {
+        "description": "Maria Moruzzi, a true Borough Market stalwart, can break eggs and fry bacon with the best of them. Her parents opened Borough Cafe on Park Street in 1961. Maria began working there as a seven-year-old and eventually took over running the place. She has been part of the fabric of Borough Market ever since. At Maria’s Market Cafe, now located in the heart of Three Crown Square, her bubble and squeak, hearty breakfasts and strong tea have been served up to everyone from market porters to Hollywood film stars.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/maria-s-market-cafe", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [], 
+        "id": "70cc80a1-bc01-4534-bd86-c72cb26d0942", 
+        "name": "Maria’s Market Cafe"
+    }, 
+    {
+        "description": "Handmade breakfast cereals produced from 100 per cent organic ingredients, Mini Magoo’s range is free from added sugar, salt and oil and includes many allergen-free options. Choose from a wide variety of cornflakes, granola, muesli, ‘Granuesli’ or porridge, all of them packed with different fruits and spices, and top with ‘Funstuff’—a topping of mixed nuts and seeds.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/mini-magoo", 
+        "summary": "Dry goods", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/Mini-Magoo-219707614829527/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "161cce6e-5a3c-46b1-867f-414ab8ff98f9", 
+        "name": "Mini Magoo"
+    }, 
+    {
+        "description": "One of the first wave of specialist retailers to arrive at Borough Market in the late 1990s, Monmouth Coffee Company has gone on to become one of the most revered names in British coffee and a pioneer in the recent renaissance of cafe culture.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/monmouth-coffee-company", 
+        "summary": "Cafés, bars & restaurants, Drinks", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/Monmouth-Coffee-Company-172710506106089/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "e88a2c2b-19ee-4f35-8fe3-6b71caf5e318", 
+        "name": "Monmouth Coffee Company"
+    }, 
+    {
+        "description": "Hervé Mons is a third generation affineur, and one of France’s most respected and award-laden cheese experts. He sources French and Swiss cheeses from specialist regional producers then carefully matures them at his facility in St Haon-le-Chatel in the Loire, France. The result is a wide ranging and ever-changing array of spectacular cheese, including mont d’or and beaufort alpage, which is produced exclusively in the French Alps. Run by Neal’s Yard Dairy alumni Jon Thrupp and Ned Palmer, the Borough stall is devoted to bringing Mons cheese to a British audience.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/mons-cheesemongers", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/MonsCheeseUK", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/monscheeseuk/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "604e91d8-9e99-4444-a135-1a99ba9b2f07", 
+        "name": "Mons Cheesemongers"
+    }, 
+    {
+        "description": "Mention Lincolnshire to any foodie worth his salt and within a heartbeat they’ll say “Lincolnshire sausage”: that no-nonsense, all-flavour meat treat for which the county is famed. Based in the Lincolnshire town of Boston, Mountain’s Boston Sausage has been making sausages for more than 150 years. As well as sausages and chipolatas, the stall sells raw and cooked haslets, sausage rolls, sausage pies and hot dogs, all of which can be washed down with FRANK water, a not-for-profit social enterprise which gives 100 per cent of its profits to fund clean water projects in developing countries.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/mountain-s-boston-sausage", 
+        "summary": "Meat, poultry & game, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/bostonsausage", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/BostonSausage", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "43225d56-ddb2-4b50-bd57-e5e30cae740b", 
+        "name": "Mountain’s Boston Sausage"
+    }, 
+    {
+        "description": "When Elizabeth King started making pork pies back in 1853, little did she realise exactly what she was setting in motion. And she would probably have been shocked—and more than a little proud—if she knew that her name would be immortalised at one of the world’s most famous markets more than a century and half later.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/mrs-king-s-pork-pies", 
+        "summary": "Meat, poultry & game, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/mrskingspies", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Mrs-Kings-Pork-Pies-445141012226251/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "d338c635-a37e-44ee-911d-b3ff1579a044", 
+        "name": "Mrs King’s Pork Pies"
+    }, 
+    {
+        "description": "Nana Fanny’s sells delicious salt beef beigels (and no, that’s not a typo) prepared by Ivan Lester and his family. Ivan has been perfecting his salt beef for years. Using only the finest quality beef, simmered in a pan of stock, bay leaves and peppercorns, the exact recipe is a guarded secret but the results speak for themselves: intense pink flesh of beef, soft as butter. It’s served either in a beigel or rye bread sandwich, both topped with thick pickles and razor-sharp mustard. Nana Fanny’s also offers vegetarians something special in the form of tasty falafel wraps.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/nana-fanny-s", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/NanaFannys", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/nanafannys/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "b3b42aab-d770-4f74-bcaf-9ffdd97314f8", 
+        "name": "Nana Fanny’s"
+    }, 
+    {
+        "description": "Neal’s Yard Remedies, based in Gillingham, Dorset, offers a wide range skincare, haircare, aromatherapy products and natural herb-based remedies, made using certified organic ingredients and presented in the company’s famous blue glass bottles. The company was born in 1981 in Covent Garden and has gone on to become a leading light in the health and beauty industry, without compromising its founding principles: that beauty should be natural, not synthetic.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/neals-yard-remedies", 
+        "summary": "Hair and beauty", 
+        "social": [
+            {
+                "url": "http://twitter.com/NYR_Official", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/NealsYardRemediesOfficial", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/nyr_official/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "5e5aa4b1-c253-4c4b-b383-e47799f20c37", 
+        "name": "Neal's Yard Remedies"
+    }, 
+    {
+        "description": "Neal’s Yard Dairy was founded in Covent Garden in 1979 by Randolph Hodgson and was one of the first retailers to set up in the empty warehouse spaces around Borough Market in the 1990s. It continues to offer a truly stunning array of cheeses sourced from around 70 specialist cheesemakers all over the UK and Ireland. Many of the cheeses are aged in Neal’s Yard Dairy’s own maturing rooms under the brick railway arches of Bermondsey, where they are carefully turned, brushed and washed until they ripen.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/neal-s-yard-dairy", 
+        "summary": "Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/nealsyarddairy", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/nealsyarddairy", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "c5bdce26-962b-4924-9dc8-470ef425a787", 
+        "name": "Neal’s Yard Dairy"
+    }, 
+    {
+        "description": "Former city banker Jan McCourt took on Northfield Farm in 1994. Jan’s farm, which straddles the Rutland-Leicestershire border, midway between Oakham and Melton Mowbray, is home to herds of dexter and white park cattle. At Borough Market, Northfield’s butchers sell the best seasonal cuts and are happy to advise customers on preparation and cooking times to ensure they get the most from their meat.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/northfield-farm", 
+        "summary": "Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/BoroughButcher", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "97269aef-14be-4f4a-aa9e-7b4b646e1054", 
+        "name": "Northfield Farm"
+    }, 
+    {
+        "description": "Starting as a hobby, Nut Farms’ founder Edward Lade planted walnut trees with his father 40 years ago. Now with access to acres of nuts, Edward focusses on harvesting Kentish cobnuts, walnuts and creating delicious cold pressed nut oils. The cobnut season is short, usually from August to October, but these fresh nuts can last through until Christmas if stored correctly.", 
+        "openingtimes": [
+            "Friday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/nut-farms", 
+        "summary": "Fruit & veg, Oils & vinegars", 
+        "social": [], 
+        "id": "5b326c12-d520-4d37-b1bd-c08e3a19b77e", 
+        "name": "Nut Farms"
+    }, 
+    {
+        "description": "With sustainability and conservation at heart, Oak and Smoke produce  smoked fish products including smoked fish pates, Arbroath traditional hot smoked salmon and Arboath smokies. Using off-cuts from used whisky and calvados barrels for smoking materials and with plans for construction of a wind turbine to power the smokery, Oak and Smoke believe their impact on the environment to be a positive one, something reflected in the quality of the products on offer.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/oak-and-smoke", 
+        "summary": "Fish & seafood", 
+        "social": [
+            {
+                "url": "http://twitter.com/smokiesinlondon", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "f041cbdf-f0c9-4903-b41a-d5f6b8937263", 
+        "name": "Oak and Smoke"
+    }, 
+    {
+        "description": "Marianna Kolokotroni brings a form of liquid gold to Borough Market: Greek olive oil, produced on a family holding at the foot of the Taygetus Mountains, grown organically and hand harvested according to traditions used through countless generations. From elsewhere on the Greek islands, Marianna also sources fresh olives, artisan honey, raisins—which have PDO status and grow only in the Peloponnese region of southern Greece—and pistachios, grown and freshly roasted in small batches.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/oliveology", 
+        "summary": "Spices, preserves & condiments, Oils & vinegars, Olives & antipasti", 
+        "social": [
+            {
+                "url": "http://twitter.com/OliveologyUK", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/oliveology", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/oliveology/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "dc2be87e-ff4b-4a1b-a811-ea4c1792fb3f", 
+        "name": "Oliveology"
+    }, 
+    {
+        "description": "With more than two decades of experience under his belt, pastry chef and baker Olivier Favrel is committed to providing products made using only the best ingredients. Based locally in south-east London, Olivier’s Bakery brings to Borough Market a variety of freshly baked breads, cakes and pastries, including a special selection of 100 per cent spelt breads and deliciously soft croissants.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/olivier-s-bakery", 
+        "summary": "Confectionery, Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/olivierfavrel", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/oliviersbakery", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "4869102a-c843-45fa-9c86-99f020bc511c", 
+        "name": "Olivier’s Bakery"
+    }, 
+    {
+        "description": "Created by Tim Siadatan and Jordan Freida, the duo behind Islington’s much-loved Trullo, Padella offers a simple menu of eight seasonal pasta dishes, combining traditional Italian techniques and flavour combinations with quality British produce. The pasta is all freshly made on site—passers-by can watch it being rolled out by hand in the window of the restaurant. Split over two floors, diners can either sit at tables or take the more casual option of the kitchen counter seating.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/padella", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/Padella_Pasta", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/padella_pasta/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "9cd62d29-b08b-4c7d-9b61-d54c7e5b41f3", 
+        "name": "Padella"
+    }, 
+    {
+        "description": "Patisserie Lila is a cafe and patisserie offering teas, coffees, cold drinks, light lunches and a fantastic selection of handmade cakes and pastries, including fruit tarts, big creamy gateaux, spectacular meringues and rich cheesecakes. Wherever possible, ingredients are sourced from within the Market.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/patisserie-lila", 
+        "summary": "Cafés, bars & restaurants, Bakery", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/pages/Patisserie-Lila/145987998790077?fref=ts", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "a6d7ffcd-dc71-4613-a4ae-2de5b908b065", 
+        "name": "Patisserie Lila"
+    }, 
+    {
+        "description": "Paul Crane and his colleague Tony could compete with the world’s leading opera singers in terms of vocal projection. Customers would have to be either deaf or abroad to miss their cries publicising fresh strawberries and whatever else happens to be in season. Paul’s stall is always weighed down by a small selection of colourful produce: from raspberries, blueberries, cranberries and cherries to figs, clementines, tomatoes and satsumas.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/paul-crane", 
+        "summary": "Fruit & veg", 
+        "social": [], 
+        "id": "9db94650-a0b9-4476-a8a4-e236a1357997", 
+        "name": "Paul Crane"
+    }, 
+    {
+        "description": "Run by Paul Wheeler and his partner Harriet Booth, Paul Wheeler Fresh Supplies is a fruit and veg stall that deals in a wide range of fruit and veg from the UK and Europe, much of it organic. Harriet and Paul take pride in their offering, resulting in a beautiful and vibrant looking stall. Paul’s approach to produce is to buy ‘little and often’ ensuring nothing is ever more than a couple of days old.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/paul-wheeler-fresh-supplies", 
+        "summary": "Fruit & veg", 
+        "social": [], 
+        "id": "71f1ffd5-5af1-4a80-9827-ed86c1de631d", 
+        "name": "Paul Wheeler Fresh Supplies"
+    }, 
+    {
+        "description": "Flip Dunning’s handmade organic mushroom pâté is made to a secret family recipe using freshly-picked field, button, chestnut and in-season wild mushrooms. This vegetarian treat works perfectly on toast, but also makes a wonderful stuffing for chicken breasts, a spread for a bacon sandwich, or a flavoursome addition to rice, pasta or potatoes.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/pate-moi", 
+        "summary": "", 
+        "social": [
+            {
+                "url": "http://twitter.com/pate_moi", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "c9f9dbda-4d03-4e30-8d0b-bc1c462e1f11", 
+        "name": "Pâté Moi"
+    }, 
+    {
+        "description": "Pieminister was founded in 2003 by brothers-in-law Jon Simon and Tristan Hogg. To this day, the company continues to put great taste and quality at the heart of every pie it bakes. The pies are made using 100 per cent free range British meat and eggs, MSC-certified fish and fresh vegetables, with all ingredients sourced as locally as possible.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/pieminister", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/pieminister", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/pieministeruk", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "2468deb3-3911-4f32-86cf-e6c0fe805564", 
+        "name": "Pieminister"
+    }, 
+    {
+        "description": "Dawn Smith has taken her love for Jamaican food and, using traditional methods and fine fresh ingredients, created a select range of sauces, seasonings and jellies, tapping into recipes that have been used for generations. The range, which includes sweet red pepper jelly, jerk seasoning and pepper sauce, is very versatile, and brings the essence of home cooked Caribbean cuisine to life through careful seasoning and flavouring, making extensive use of the essential scotch bonnet chilli and pimento berry.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/pimento-hill", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/PimentoHill", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/pimmiehill/?fref=ts", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "5da35233-bdc2-4bc6-923e-d89f251642c5", 
+        "name": "Pimento Hill"
+    }, 
+    {
+        "description": "Porteña—which means ‘girl from Buenos Aires’—sells traditional Argentine street food. Specialities include empanadas, hearty pasties with fillings such as spinach and ricotta, ham and cheese, mozzarella and tomato or beef; yerba mate, a South American infusion drunk from a gourd through a filtered straw called a bombilla; and alfajores, homemade biscuits filled with the stall’s famously sweet and gooey dulce de leche.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/portena", 
+        "summary": "Confectionery, Bakery, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/PortenaLondon", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Portena.uk/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "920b065c-d262-4719-8523-266fa1286252", 
+        "name": "Porteña"
+    }, 
+    {
+        "description": "This unique restaurant, bar and shop is dedicated to cocoa, which makes its way from the beans harvested at the Rabot Estate plantation in St Lucia, to the cocoa-inspired cuisine served in its Bedale Street restaurant.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/rabot-1745", 
+        "summary": "Confectionery, Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/HotelChocolat", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/HotelChocolat", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "4a140a01-d8c2-4fe3-a214-307903219af6", 
+        "name": "Rabot 1745"
+    }, 
+    {
+        "description": "Rhug Farm supplies premium organic meat from the historic Newborough family estate in Rhug, on the River Dee in north Wales. The farm’s produce—certified by the Soil Association—includes Rhug pedigree Aberdeen angus beef, Duroc cross breed pork, and premium chickens, which are reared slowly over a 14-week period. As well as organic meat, the Rhug Estate stall sells other specialities such as peli pabo, a delicious Welsh goat’s cheese with chilli, and perl wen, a creamy cheese wedge. The Estate also has a coastal unit near Caernarfon, where it produces salt marsh lamb.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/rhug-farm", 
+        "summary": "Meat, poultry & game", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/rhugestate", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "137ac8db-0828-4dbc-8947-78a8221d5a35", 
+        "name": "Rhug Farm"
+    }, 
+    {
+        "description": "Artist Richard Bramble has worked with many eminent British chefs, producers and growers to create ingredient, recipe, fish, and livestock paintings as well as textiles, and an expanding range of ceramics and homewares. The stall showcases these as well as his prints of the many colourful scenes of Borough Market. The key thread of food and nature runs consistently throughout the range.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/richard-bramble-collection", 
+        "summary": "Homewares & accessories", 
+        "social": [
+            {
+                "url": "http://twitter.com/richardbramble", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/richardbrambleartist", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/richardbramble/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "c445e3d9-9c5b-4efc-be17-cddc7c15f1dc", 
+        "name": "Richard Bramble Collection"
+    }, 
+    {
+        "description": "Richard Haward’s forefathers have been harvesting oysters in the shallow creeks leading from the river Blackwater to the west of Mersea Island, Essex, since as far back as 1792. For the past 100 years, the Haward family have been nurturing the same stretch of Salcott Creek, where the warm temperatures provide the perfect conditions for oysters to fatten. Richard specialises in cultivating Colchester native and Gigas oysters.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/richard-haward-s-oysters", 
+        "summary": "Fish & seafood", 
+        "social": [
+            {
+                "url": "http://twitter.com/rhawardoysters", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/rhoysters/?fref=ts", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "b214a9db-cf05-4161-8eb8-3b9c7f66d56a", 
+        "name": "Richard Haward’s Oysters"
+    }, 
+    {
+        "description": "Based in the stunning Floral Hall building overlooking the Market, Iqbal Wahhab’s picturesque restaurant focuses on beautiful roast meats, fresh fish and seasonal game. The menu, created by head chef Stuart Cauldwell, makes use of the finest British ingredients, many of which are sourced from Borough’s traders. As well as lunch and dinner, Roast offers a highly acclaimed breakfast menu.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/roast", 
+        "summary": "Cafés, bars & restaurants, Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/roastrestaurant", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/RoastRestaurantUK/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/roast_restaurant/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "218549eb-2932-4137-8944-f5153a9c6a17", 
+        "name": "Roast"
+    }, 
+    {
+        "description": "Tuscan porchetta-inspired spit roast hog", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/roast-hog", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/roasthogtim", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/RoastHogTim", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "58f22f50-0627-4af7-ab98-31bc5e194269", 
+        "name": "Roast Hog"
+    }, 
+    {
+        "description": "Tucked beneath Roast, sibling stall Roast to Go offers a mouth-watering selection of hot butties and roast meat sandwiches, created using the same top quality seasonal ingredients as the main restaurant, sourced from British farmers and producers. A sandwich of pork belly and crackling with bramley apple sauce is the crowd-puller, but there’s much more besides: rib of beef with horseradish, roast chicken with sage and onion stuffing, rare breed bacon butties. It’s hard to resist whatever the time of day.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/roast-to-go", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/RoastRestaurant", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/pages/Roast-Restaurant/543150642393724", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/roast_restaurant/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "b82e4c4a-bc27-4ecb-868c-caaa6d718dac", 
+        "name": "Roast to Go"
+    }, 
+    {
+        "description": "Packed full of fruit and robust flavours, the naturally set jams at Rosebud Preserves are a perfect accompaniment for fine cheeses and charcuterie, and even better just spread on really good bread. Elspeth Biltoft established Rosebud Preserves in 1989 in the heart of the Yorkshire dales.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/rosebud-preserves", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/preserves", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/rosebudpreserves/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "4bfdb88c-2d6a-40c8-bf95-1eb23afad120", 
+        "name": "Rosebud Preserves"
+    }, 
+    {
+        "description": "Every Saturday, Jenny Dawson brings to Borough Market a selection of unique, homemade chutneys and jams, all of which share one essential ingredient: social conscience.", 
+        "openingtimes": [
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/rubies-in-the-rubble", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/rubiesinrubble", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/rubiesintherubble/?fref=ts", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "1a94e5b1-f750-4e46-bc24-4b4688d6c354", 
+        "name": "Rubies in the Rubble"
+    }, 
+    {
+        "description": "The recent revival of the humble scotch egg as an artisan snack is due in no small part to the team behind Scotchtails, Dom Hamdy and Oli Hiam. The two met as students at UCL, and so began a collaboration that has reinvented this picnic staple and created a fun and versatile gastronomic treat. Each warm, crispy-shelled scotchie is cut open to reveal generous layers of meat—pulled pork from Ginger Pig, black pudding, chorizo or lamb and mint are some popular specials—encasing a perfectly cooked egg with an invitingly gooey yolk, served with sweet potato fries and baby leaf salad.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/scotchtails", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/scotchtails", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/SCOTCHTAILS/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "2f3f35a1-7076-4a3a-91bd-3d3e60945f2f", 
+        "name": "Scotchtails"
+    }, 
+    {
+        "description": "Secret Smokehouse founder, Max, hails from the west coast of Scotland, where he began smoking fish at a young age. Since then he has moved to Stepney, built his own smoker, and set up the Secret Smokehouse from a shed in 2015. He now produces RSPCA high welfare certified PGI status ‘London Cure Smoked Salmon’, trout, haddock, kippers to London's top chefs and restaurants-all smoked, cured, filleted and packed by hand, under the arches by London Fields.", 
+        "openingtimes": [
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/secret-smokehouse", 
+        "summary": "Fish & seafood", 
+        "social": [
+            {
+                "url": "http://twitter.com/secretsmokery", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/secretsmokehouse/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "a0081a8e-6804-4581-934b-0c14d3d08aa5", 
+        "name": "Secret Smokehouse"
+    }, 
+    {
+        "description": "Darren Brown started experimenting with a bit of scallop diving to earn some extra cash while he was in the Royal Navy, and it was his love of this hobby that eventually led to the birth of Shellseekers. Diving off the Devon coast, the scallops he and his team collect by hand are highly prized, and have found their way into some of the best kitchens in the country. The stall also sells other sustainably caught fish, shellfish, crustaceans and an impressive selection of game, much of it shot by Darren himself.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/shellseekers-fish-game", 
+        "summary": "Fish & seafood, Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/@shellseekers98", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "08ccf853-ce2b-4f9e-b0e6-e4d85958f6a1", 
+        "name": "Shellseekers Fish & Game"
+    }, 
+    {
+        "description": "At Silka, a modern restaurant with minimalist décor, head chef Abdul Wadud combines Asian spices with European ingredients to create both much-loved, British-Indian dishes and less-familiar creations with a focus on lighter eating, including popular lunchtime platters.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/silka", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/silkarestaurant", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/silkarestaurant", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/silkarestaurant/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "a30a21c9-a688-48f4-a2b0-720fd69c8579", 
+        "name": "Silka"
+    }, 
+    {
+        "description": "For a tantalising taste of the soul of Caribbean cooking, make a stop at Soul Food. Using modern interpretations of the recipes and techniques passed down from generation to generation, Patrick Williams cooks up a storm of strong earthy flavours and sweet spices with his jerk chicken and curried goat with rice and peas, alongside fried plantains and pineapple coleslaw. Simple yet beautiful food that glorifies the hot, sweet Caribbean flavours loved by many.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/soul-food", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/eatsoulfood", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/EatSoulFood", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "1144d018-f251-4279-a470-552d6a8ec7ed", 
+        "name": "Soul Food"
+    }, 
+    {
+        "description": "With more than 100 herbs, spices and blends, Spice Mountain is home to one of the greatest collections of flavouring imaginable. Owner Magali Russie sources her products from plantations in Goa and Kerala, farms in Mauritius, and producers in Spain and Kashmir, working directly with the producer where possible. Offerings range from the familiar and every day to real rarities such as Australian wattleseed—the toasted seeds of the acacia tree used in traditional Aboriginal cooking. The spice blends are made by Magali in her London kitchen.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/spice-mountain", 
+        "summary": "Spices, preserves & condiments, Dry goods", 
+        "social": [
+            {
+                "url": "http://twitter.com/spice_mountain", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Spice-Mountain-142102855842707/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "27d14edc-acda-4a56-b771-06d5d93199dc", 
+        "name": "Spice Mountain"
+    }, 
+    {
+        "description": "Bringing the catch straight from an in-shore fishery off the Sussex coast, Sussex Fish is the place to go if you are looking for fresh, tasty, locally sourced fish. Everything is caught using sustainable fishing methods then brought straight to the Market within 48 hours, ensuring the produce is as fresh as possible. Specialties include plaice, bass, mackerel, lemon sole, gurnard, cod, huss and dressed crabs.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/sussex-fish", 
+        "summary": "Fish & seafood", 
+        "social": [], 
+        "id": "44f81da7-7c8d-4360-bae5-958ba34f66e4", 
+        "name": "Sussex Fish"
+    }, 
+    {
+        "description": "Bringing the ‘sweet roots’ of liquorice to Borough Market, liquorice brownies, liquorice marinades and liquorice jam are just some of the products available from Sweet Roots. Lucas Giuliani’s products are made from 100 per cent natural ingredients with no additives, sweeteners or colourings. Passionate about liquorice since his childhood in Italy, Lucas sources his products from the remote region of Calabria, where liquorice has been produced using traditional methods for centuries.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/sweet-roots", 
+        "summary": "Confectionery", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/sweetrootslicorice/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "e49f617d-2747-4e69-91bc-545d24aa2b88", 
+        "name": "Sweet Roots"
+    }, 
+    {
+        "description": "Founder Monika Linton set up Brindisa to import the finest Spanish ingredients. Opening this tapas restaurant in Borough Market was a logical next step. Using produce sourced only from trusted Spanish producers—and fresh from the Market—the menu comprises of classic tapas dishes, traditional snacks, ‘cocina de mercado’ house specials and fine Spanish wines. Have a snack of juicy gordal olives or Marcona almonds from the picoteo menu with a drink at the busy, informal bar, or sample a plate of regional charcutería in the window seats as you watch Market life go by.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/tapas-brindisa", 
+        "summary": "Cafés, bars & restaurants", 
+        "social": [
+            {
+                "url": "http://twitter.com/brindisa", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Brindisa", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/brindisaspanishfoods/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "18542684-6207-465d-aab9-f03e1bd6fd99", 
+        "name": "Tapas Brindisa"
+    }, 
+    {
+        "description": "Named after the Italian word for a woodland in which truffles are found, Tartufaia imports truffles from all over Italy—including the famous and highly sought-after truffles of Acqualagna—and, most recently, Australia. Founded and run by former chef and Borough Market stalwart Mario Prati, the company also sells a wide range of delicious truffle-based products including white truffle oil, truffle honey, truffle butter and truffle brie, all made purely from natural ingredients.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/tartufaia", 
+        "summary": "Fruit & veg, Spices, preserves & condiments", 
+        "social": [], 
+        "id": "5725b9f0-4f1e-4727-b128-5022c04ec0c0", 
+        "name": "Tartufaia"
+    }, 
+    {
+        "description": "Husband and wife Chris and Ana-Maria are the team behind Taste Croatia, which offers an array of delicious charcuterie, truffles, pates, wines and cheeses, olive oils and sweet products from Istria—a region of Croatia which is famous for its exceptional cuisine. Each product is sourced carefully from local Croatian producers, with the utmost care for the environment.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/taste-croatia", 
+        "summary": "Spices, preserves & condiments, Cured meats", 
+        "social": [
+            {
+                "url": "http://twitter.com/tastecroatia", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.instagram.com/tastecroatia/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "b3ebd636-f2a4-473d-b763-50e8fdcd2969", 
+        "name": "Taste Croatia"
+    }, 
+    {
+        "description": "The tea gardens of the north-east of India, situated in the foothills of the Himalayan Mountains, are widely regarded as the source of some of the finest tea in the world. The region’s name is Darjeeling, and the eponymous tea produced there comes in four forms—black, green, white and oolong. Ratan of Tea2You carefully selects each tea every season and brings it to Borough Market direct from the supplier.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/tea2you", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/_tea2you", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Tea2you-154834171227935/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "e7804bd2-040e-46bc-8ed6-347816ba2819", 
+        "name": "Tea2You"
+    }, 
+    {
+        "description": "Ted’s Veg boasts an ever-changing range of seasonal, home-grown vegetables and salad from Ted Dawson’s farm near Boston, Lincolnshire, as well as a selection of fresh fruit and veg sourced from other high quality suppliers. Specialities include Ted’s own fantastic globe artichokes.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/ted-s-veg", 
+        "summary": "Fruit & veg, Wholesale", 
+        "social": [
+            {
+                "url": "http://twitter.com/Tedsveg1", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/teds-veg-110985015608097/?hc_location=ufi", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "bf55982d-a08b-4664-a43e-cc566597afb8", 
+        "name": "Ted’s Veg"
+    }, 
+    {
+        "description": "Mrs Sandhu knows all there is to know about Punjabi food. Inspired as a child by watching her father create new recipes and source seasonal ingredients, she makes everything from scratch in her Hitchin kitchen then, with her daughter Preet, brings it to Borough Market every Saturday. Temptings lives up to its name with a wide range of delicious savoury and fruit-based chutneys, pickles and fragrantly spiced hot pancakes.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/temptings", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [], 
+        "id": "325db891-4eb4-4e78-8827-6cd9dc10b709", 
+        "name": "Temptings"
+    }, 
+    {
+        "description": "In the picturesque village of Burley in the New Forest, apples from New Forest Cider’s own orchard are pressed during October and November, along with cider fruit from traditional orchards in Somerset and Herefordshire. The stall sells by the glass or the bottle, and offers dry, medium and sweet ciders, perry and, in the winter months, hot mulled cider. A selection of ciders are made using Normandy and champagne methods, including the coveted cidre bouche.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-cider-house", 
+        "summary": "Drinks, Wholesale", 
+        "social": [
+            {
+                "url": "http://twitter.com/NewForestCider", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/theciderhouse/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "9f2085ea-c193-4473-87a3-d3770cd91a05", 
+        "name": "The Cider House"
+    }, 
+    {
+        "description": "Founded by Eduardo Florez, The Colombian Coffee Company is a social enterprise dedicated to introducing high quality coffee beans, direct from farmers in the South American country of Colombia, to the UK. The coffees are all single origin varieties, including caturra, typica, castillo, borbón and gesha. By buying them directly from farmers at a fair price, Eduardo and his team are able to provide a reliable source of income for communities scarred by a decades-long civil war and the harsh nature of the global commodities markets. The profits are invested back into local social projects, so it is not just the coffee growers themselves who benefit.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-colombian-coffee-company", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/EthicalCaffeine", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The-Colombian-Coffee-Company-135417803286842/", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/thecolombiancoffee_co/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "a1c32ce0-d158-4efd-8189-0fe49fb25308", 
+        "name": "The Colombian Coffee Company"
+    }, 
+    {
+        "description": "The Exotic Meat Company is best known for the ostrich fillets, steaks, tenderloins and meat products produced at its own Gamston Wood ostrich farm in north Nottinghamshire. But the exoticism doesn’t end there. The stall also sells kangaroo, water buffalo, springbok, kudu, bison, zebra, impala and crocodile, along with biltong, huge ostrich eggs and feather dusters. The stall’s hot food grill serves burgers and steak sandwiches, utilising many of these unlikely meats.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-exotic-meat-company", 
+        "summary": "Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/theexoticmeatco", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The-Exotic-Meat-Company-234064420064971/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "de407112-a7ed-4cec-90ca-747b70562558", 
+        "name": "The Exotic Meat Company"
+    }, 
+    {
+        "description": "The Flour Station offers artisan sourdough breads, cakes and pastries, handmade using traditional techniques and natural ingredients. The breads are produced using a long fermentation process, with the doughs left to develop for up to 24 hours. The Flour Station came to the Market in 2004, having begun life in the kitchen of Jamie Oliver’s Fifteen restaurant. Its wide range of breads and pastries continues to grow, all the while maintaining authentic methods of craftsmanship.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-flour-station", 
+        "summary": "Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/FlourStation", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "6f7ee536-e01b-4819-a642-1fd1d51c28e2", 
+        "name": "The Flour Station"
+    }, 
+    {
+        "description": "The Free From Bakehouse began with Caroline Aherne challenging herself to create a range of ‘free from’ cakes and pastries of the calibre of their counterparts—and she has continued to do so with aplomb. Handmade at her dedicated gluten-free premises, many are also dairy free, and some are sugar and egg free too. From jalapeno pepper and sweetcorn muffins to sugar-free apricot, almond and tahini flapjacks or parsnip, pear and sea-salted caramel cake, there’s something for everyone to enjoy.", 
+        "openingtimes": [
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-free-from-bakehouse", 
+        "summary": "Confectionery, Bakery", 
+        "social": [
+            {
+                "url": "http://twitter.com/FreeFromBakeHse", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The-Free-From-Bakehouse-131233870321195/timeline/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "13a8f6aa-1eff-476e-9738-e1420f4db3f9", 
+        "name": "The Free From Bakehouse"
+    }, 
+    {
+        "description": "Fabien Joly and Florent Gacon are a couple of young Franc-Comtois with a passion for food, wine and the artisan traditions of their native region of France. They come from a long line of famers and craftsmen who have been producing food and running market stalls for generations.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-french-comte", 
+        "summary": "Cured meats, Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/thefrenchcomte", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The.French.Pantry", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "7024b461-8245-4a8d-b93f-c6dcaff7ae0b", 
+        "name": "The French Comte"
+    }, 
+    {
+        "description": "Sharon Crane left life in the corporate world to turn her love for plants and flowers into a business, teaching herself new skills and learning from other florists along the way. Her permanent stall, The Gated Garden, has been at the Market since 2013, brightening Three Crown Square with its colourful array of flowers, plants and beautiful garden ornaments.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-gated-garden", 
+        "summary": "Plants & flowers", 
+        "social": [
+            {
+                "url": "http://twitter.com/thegatedgarden", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "http://www.pikore.com/thegatedgarden ", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "0ef0996e-7f46-4b96-887b-296699e92b4c", 
+        "name": "The Gated Garden"
+    }, 
+    {
+        "description": "At German Deli, even the ketchup is German: were the sauerkraut, sizzling bratwurst and red and white tablecloth not proof enough of the stall’s unimpeachable authenticity, then this surely must be. The Thüringian bratwurst—the most popular of German Deli’s offering—has been made in the same place for hundreds of years. It comes served in a soft, pillowy roll freshly baked by fellow Germans Artisan Foods.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-german-deli", 
+        "summary": "Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/Thegermandeli", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/German-Deli-143937101164/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "26888acb-a55f-43c8-9147-3adbcea14a7e", 
+        "name": "The German Deli"
+    }, 
+    {
+        "description": "The Ginger Pig’s three Yorkshire farms are home to a wonderful array of native British rare breed livestock: longhorn cattle; Dorset, Swaledale, Texel and blue face Leicester sheep; and Tamworth, Berkshire, English lop, Gloucester old spot and Welsh pigs, all of which are slowly reared outdoors. The exceptional meat sold at the stall is skilfully butchered and properly hung when appropriate, leaving nothing to waste—the offal, sausages and pies are as prized as the prime cuts.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-ginger-pig", 
+        "summary": "Meat, poultry & game, Street food", 
+        "social": [
+            {
+                "url": "http://twitter.com/gingerpigltd", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/TheGingerPig/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "81a34f86-f1c6-44f3-8cb4-dc611c199547", 
+        "name": "The Ginger Pig"
+    }, 
+    {
+        "description": "Built in 1872 and designed by renowned Victorian architect Henry Jarvis, The Globe Tavern is set in a distinctive Gothic-style building. Following extensive refurbishment in 2015, the interior is modern, with an extensive array of lagers, real and craft ales. Upstairs head chef Luke Hawkins serves up adventurous, seasonal British fare with a carefully curated wine list to match.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday", 
+            "Sunday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-globe-tavern", 
+        "summary": "Cafés, bars & restaurants, Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/TheGlobeSE1", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/theglobetavern/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "326d3eb8-2bad-4c29-9034-bde196bf410b", 
+        "name": "The Globe Tavern"
+    }, 
+    {
+        "description": "On the last Saturday of every month while the honey season lasts, you’ll find the Golden Company’s youthful ‘bee guardians’ selling urban honey and honey-related products. The Golden Company is a social enterprise based in East London, which works with young people from the inner city to nurture their entrepreneurial spirit through first-hand experience of running a business. The apprentices, some of whom are now accredited beekeepers, use the honey gathered from their Hackney hives to create food and skincare products for their stall.", 
+        "openingtimes": [
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-golden-company", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [
+            {
+                "url": "http://twitter.com/thegoldenco", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/TheGoldenCompany", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "59ff9236-dffd-4eb9-aafe-5d8bf1307f9e", 
+        "name": "The Golden Company"
+    }, 
+    {
+        "description": "Alison Crouch and Elliott John fly to Italy every two months to visit Apennine dairies, where they taste and select the finest parmesan cheese to sell at Borough Market. Regular suppliers include Caseificio Superchina, a cheese-making cooperative which sits at just under 1,000m in the Modenese Appenines, and Azienda Agricola Iris in the tiny hamlet of Rivalto. With just 120 cows, it produces just three or four wheels of parmesan a day. The cheese is accompanied on the stall by a small range of salamis, all of which are made from rare breeds supported by the Slow Food movement.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-ham-and-cheese-company", 
+        "summary": "Cured meats, Dairy & eggs", 
+        "social": [
+            {
+                "url": "http://twitter.com/hamandcheeseco", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The-Ham-Cheese-Company-307310382696113/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "57ab096c-f362-47e1-915d-af102d4a4c69", 
+        "name": "The Ham and Cheese Company"
+    }, 
+    {
+        "description": "Fresh fruit smoothies", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-natural-smoothie-co", 
+        "summary": "Drinks", 
+        "social": [], 
+        "id": "f798ac19-f4da-40f6-9486-94599e410fa4", 
+        "name": "The Natural Smoothie Co"
+    }, 
+    {
+        "description": "The Olive Oil Co imports olive oil and vinegar from specialist producers across Italy, including many from founder Danilo Manco’s home region of Puglia—the centre of Italian olive oil production. Specialities include the famous single estate cinque foglie extra virgin oil, for which olives are picked before they are fully ripe then pressed just once soon after picking, using a traditional cold press. The stall also sells some superb balsamic vinegar of Modena.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-olive-oil-co", 
+        "summary": "Oils & vinegars", 
+        "social": [
+            {
+                "url": "http://twitter.com/theoliveoilco", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Theoliveoilco", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "373a8cee-0b33-4a2d-b5d5-bb8c8ac41b65", 
+        "name": "The Olive Oil Co"
+    }, 
+    {
+        "description": "In former lives, Philip Crouch has been the curator of a chair museum and a semi-professional windsurfer. Now he sells what he believes is the best Parma ham to be found, which he sources direct from producer Saint Ilario. This is accompanied by some exceptional unpasteurised buffalo mozzarella from Campania, cured culatello di montagna and prosciutto de san daniele.", 
+        "openingtimes": [
+            "Monday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-parma-ham-and-mozzarella-stand", 
+        "summary": "Cured meats, Dairy & eggs", 
+        "social": [], 
+        "id": "90b20e6a-a1f4-470a-95d0-10726d0ba4e5", 
+        "name": "The Parma Ham and Mozzarella Stand"
+    }, 
+    {
+        "description": "Run by the founders of Utobeer, Richard Dinwoodie and Mike Hill, The Rake is a speciality beer bar. The beer selection is impressively large, while the seating area is famously small, making this a warm and intimate place to explore the world of brewing. Beers come from all over the world—though there’s a slight focus on American craft beers—and there are always at least five draught beers, three real ales and a fridge choc-full of bottles at any one time.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-rake", 
+        "summary": "Cafés, bars & restaurants, Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/Rakebar", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/TheRakeSE1/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "a12d35bb-75b4-46e6-9ea9-b32276115239", 
+        "name": "The Rake"
+    }, 
+    {
+        "description": "The Tomato Stall sells fresh, perfectly ripe tomatoes of all shapes, sizes and flavours, grown in the Arreton Valley in the heart of the Isle of Wight. Varieties are carefully selected for their flavours and grown to the highest standards including the use of biological controls—essentially employing an army of insects to fight off pests—to ensure their tomatoes are grown as naturally and sustainably as possible. Their entire range of juices, sauces and accompaniments are made using only vine ripened Isle of Wight Tomatoes and are totally free from additives and preservatives.", 
+        "openingtimes": [
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-tomato-stall", 
+        "summary": "Fruit & veg", 
+        "social": [
+            {
+                "url": "http://twitter.com/iowtomatoes", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/IsleofWightTomatoes", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "dfe18bf4-1bea-4ec1-b2da-80a4a3515f05", 
+        "name": "The Tomato Stall"
+    }, 
+    {
+        "description": "Traditional Turkish produce sourced via the family of husband and wife team Graham and Chimen, who comes from the Gemlik region of Turkey, famed for its olives. The stall sells more than 25 varieties of traditionally cured, unmarinated olives including Gemlik salt dried olives, known as kuru sele—which are rarely found anywhere outside of Turkey.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/the-turkish-deli", 
+        "summary": "Confectionery, Spices, preserves & condiments, Olives & antipasti", 
+        "social": [
+            {
+                "url": "http://twitter.com/theturkishdeli ", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/The-Turkish-Deli-167533613295623/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "f82a60e2-ebd1-4ca9-897e-0e470190819f", 
+        "name": "The Turkish Deli"
+    }, 
+    {
+        "description": "Made in Brighton using all-natural ingredients and methods to traditional Korean recipes, Time for Kimchi sells a variety of fermented foods, including traditional vegetable kimchi, wild garlic fermented pickles, chilli sauce and roasted seaweed.", 
+        "openingtimes": [
+            "Wednesday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/time-for-kimchi", 
+        "summary": "Spices, preserves & condiments", 
+        "social": [], 
+        "id": "c8dddf71-8577-4ca0-8ac7-f4d025f52616", 
+        "name": "Time for Kimchi"
+    }, 
+    {
+        "description": "The Total Organics team can get you started in the morning with a choice of fresh juices such as the carrot, apple and ginger or the 'Hangover Cure'—depending on what’s in season and what you're in the mood for. All juices are squeezed fresh on site each morning. And if you need an extra boost, try their wheatgrass shots.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/total-organics", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/total_organics", 
+                "type": "twitter"
+            }
+        ], 
+        "id": "e011c2cf-0b4d-4622-b275-ab7633a88466", 
+        "name": "Total Organics"
+    }, 
+    {
+        "description": "Turnips is a fruit and veg wholesaler and retailer run by Fred and Caroline Foster. The pair source high quality produce from a network of independent farms around Britain and, in the instance of some specialist items, Europe and beyond. Whether it be beetroot from Somerset, potatoes from Lincolnshire, rhubarb from Yorkshire, cabbages from Kent or locally foraged wild mushrooms, Turnips is guaranteed to bring the season’s finest offerings to its Borough stall.", 
+        "openingtimes": [
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/turnips", 
+        "summary": "Fruit & veg, Wholesale", 
+        "social": [], 
+        "id": "d8dfb317-b620-496a-a9a4-d3f4416353cf", 
+        "name": "Turnips"
+    }, 
+    {
+        "description": "Run by the Le Blais brothers, who are originally from the Pays d’Auge area of Normandy, Une Normande a Londres sources cheeses from suppliers all over France. Offerings range from familiar favourites such as camembert de Normandie and brie de Meaux, to the more obscure tête de moine and Sainte Maure de Touraine. Many of the stall’s products are regional specialities which have been granted protected AOC status.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/une-normande-a-londres", 
+        "summary": "Dairy & eggs, Meat, poultry & game", 
+        "social": [
+            {
+                "url": "https://www.facebook.com/unenormande.alondres?fref=ts", 
+                "type": "facebook"
+            }, 
+            {
+                "url": "https://www.instagram.com/unenormandealondres/", 
+                "type": "instagram"
+            }
+        ], 
+        "id": "42b09b14-aa2d-473a-aadd-a951d1dc1b60", 
+        "name": "Une Normande a Londres"
+    }, 
+    {
+        "description": "Mike Hill and Richard Dinwoodie source great beers from all over the beer-drinking world. And as the beer-drinking world is pretty much the entire globe, that’s no mean feat. The task is made easier by the fact that the team all share a deep knowledge and passion for their products. Utobeer is a completely independent, specialist beer shop with 700-odd products on display at any one time, all from independent and craft breweries.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/utobeer", 
+        "summary": "Drinks", 
+        "social": [
+            {
+                "url": "http://twitter.com/Utobeer", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Utobeer-280324272001309/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "2902dc45-3b27-4937-8ee9-cea3ddd63ea9", 
+        "name": "Utobeer"
+    }, 
+    {
+        "description": "Whirld is an artisan confectionery company set up by Justine Cather, founder of award-winning fudge company Burnt Sugar. Its range of delicious sweets are all handmade to traditional recipes, using unrefined golden Fairtrade sugar, cream and butter and other wholly natural ingredients. Choose from toffee, nougat, fudge and honeycomb, or some rather more adventurous flavours such as chilli chocolate. Incredibly moreish, Whirld’s sweets are perfect for an indulgent treat or a lovely gift for a very special person—if you can bear to share.", 
+        "openingtimes": [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/whirld", 
+        "summary": "Confectionery", 
+        "social": [
+            {
+                "url": "http://twitter.com/OurWhirld", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Whirld-428426823873623/?fref=nf", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "62b6c0cd-aef2-47a4-971a-108fb68287e4", 
+        "name": "Whirld"
+    }, 
+    {
+        "description": "Wild Beef sells exceptional rare-breed beef from Hillhead Farm in Chagford, Devon. Owners Richard and Lizzie Vines use traditional methods to rear a small herd of Welsh blacks and native Devon cattle. The pasture-fed meat sold on the stand is hung for a minimum of three weeks to ensure succulence and depth of flavour.", 
+        "openingtimes": [
+            "Thursday", 
+            "Friday", 
+            "Saturday"
+        ], 
+        "url": "http://boroughmarket.org.uk/traders/wild-beef", 
+        "summary": "Meat, poultry & game", 
+        "social": [
+            {
+                "url": "http://twitter.com/Wild_Beef", 
+                "type": "twitter"
+            }, 
+            {
+                "url": "https://www.facebook.com/Wild-Beef-West-Country-Farm-Shop-174498106056986/", 
+                "type": "facebook"
+            }
+        ], 
+        "id": "dd24ef57-e5d1-4be3-bda9-f6b347ca3633", 
+        "name": "Wild Beef"
+    }
+]

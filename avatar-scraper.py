@@ -26,10 +26,12 @@ def dlfile(url, filename):
         rgb_im = i.convert('RGB')
         rgb_im.save(filename)
         print "Downloaded {0}...".format(url.encode('utf-8'))
+        return True
     #handle errors
     except:
         print "Failed to download {0} to {1}".format(url.encode('utf-8'), filename)
         pass
+    return False
         
 
 user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
@@ -73,7 +75,11 @@ for trader in data:
         elif hasFacebook:
             avatarurl = facebookURL
 
-        dlfile(avatarurl, "images/{0}.jpeg".format(trader["id"]))
+        if dlfile(avatarurl, "images/{0}.jpeg".format(trader["id"])):
+            trader['avatarUrl'] = "assets/imgs/avatars/{0}.jpeg".format(trader["id"])
+
+with open('avatar-scrape.json', 'w') as outfile:
+    outfile.write(json.dumps(data, ensure_ascii=False, indent=4).encode("utf-8"))
         # print avatarurl.encode('utf-8')
 
     # if hastwitter:
